@@ -114,10 +114,17 @@ div.center {
 
 }
 
-img {
+img.long {
 
   width: 600px;
   height: auto;
+
+}
+
+img.tall {
+
+  height: 300px;
+  width: auto;
 
 }
 
