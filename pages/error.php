@@ -15,13 +15,13 @@
 
         <div class="topnav disable-select">
 
-            <a class="active" href="home.html">Home</a>
-            <a href="pageone.html">Project</a>
-            <a href="about.html">About</a>
+            <a href="index.php">Home</a>
+            <a href="pageone.php">Project</a>
+            <a href="about.php">About</a>
 
         </div>
 
-        <div class="center disable-select" style="padding-left:16px">
+        <div class="center disable-select" style="padding-left:16px; padding-right:16px;">
 
             <h1>Error Page</h1>
             <p id="err"></p>

@@ -15,14 +15,14 @@
 
         <div class="topnav disable-select">
 
-            <a href="home.html">Home</a>
-            <a class="active" href="pageone.html">Project</a>
-            <a href="pageone.html">1</a>
-            <a href="pagetwo.html">2</a>
-            <a href="pagethree.html">3</a>
-            <a class="subactive" href="pagefour.html">4</a>
-            <a href="pagefive.html">5</a>
-            <a href="about.html">About</a>
+            <a href="index.php">Home</a>
+            <a class="active" href="pageone.php">Project</a>
+            <a href="pageone.php">1</a>
+            <a href="pagetwo.php">2</a>
+            <a href="pagethree.php">3</a>
+            <a class="subactive" href="pagefour.php">4</a>
+            <a href="pagefive.php">5</a>
+            <a href="about.php">About</a>
 
         </div>
 
@@ -45,7 +45,7 @@
 
         </div>
 
-        <div class="center disable-select" style="padding-left:16px">
+        <div class="center disable-select" style="padding-left:16px; padding-right:16px;">
 
             <button class="button1" onclick="Back_pagefour_click()">Back</button>
             <button class="button2" onclick="Continue_pagefour_click()">Continue</button>

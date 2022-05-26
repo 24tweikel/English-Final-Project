@@ -122,14 +122,14 @@ div.center {
 
 img.long {
 
-  width: 600px;
+  width: 40vw;
   height: auto;
 
 }
 
 img.tall {
 
-  height: 300px;
+  height: 50vh;
   width: auto;
 
 }
